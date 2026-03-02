@@ -21,5 +21,5 @@ This project provides a data-driven approach to understanding employee turnover 
 * **Jupyter Notebook** (Kaggle Environment)
 
 ## 📈 Dashboard Preview
-![HR Dashboard](LI.png)
+![HR Dashboard](dashboard)
 
