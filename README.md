@@ -32,7 +32,7 @@ This project provides a data-driven approach to understanding employee turnover 
 * **Jupyter Notebook** (Kaggle Environment)
 
 
-🚀 Explore the Full Analysis on Kaggle:
+🚀 Explore the Full Analysis on Kaggle: You can find the full datasets and detailed Python notebooks here:
 * 📊[Notebook]https://www.kaggle.com/code/litonislam/hr-analytics-dashboard
 * 📊[Dataset]https://www.kaggle.com/datasets/litonislam/hr-analytics-cleaned-and-processed-employee-dataset
 
