@@ -31,6 +31,8 @@ This project provides a data-driven approach to understanding employee turnover 
 * **Power BI** (Dashboarding)
 * **Jupyter Notebook** (Kaggle Environment)
 
-## 📈 Dashboard Preview
-![HR Dashboard](dashboard)
+
+🚀 Explore the Full Analysis on Kaggle:
+* 📊[Notebook]https://www.kaggle.com/code/litonislam/hr-analytics-dashboard
+* 📊[Dataset]https://www.kaggle.com/datasets/litonislam/hr-analytics-cleaned-and-processed-employee-dataset
 
