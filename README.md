@@ -1,10 +1,6 @@
-📬 Contact
 
-Feel free to reach out for collaboration or questions!
-
-To me
-
-Liton Islam
+To me  
+Liton Islam 
 
 litonislamnext@gmail.com
 
